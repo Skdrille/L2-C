@@ -42,7 +42,7 @@ bool identiques(char *str, char *str2)
 
 bool contient(char chaine[], char c, int i)
 {
-    
+    //TODO: a finir
 }
 
 
